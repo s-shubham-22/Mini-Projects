@@ -1,0 +1,24 @@
+.form-control {
+  display: inline-block;
+  width: 80%;
+}
+
+.form {
+  text-align: center;
+  width: 80vw;
+  margin-right: 0 !important;
+}
+
+.tasks {
+  width: 50%;
+  margin: auto;
+}
+
+button {
+  display: inline-block;
+}
+
+.list-task {
+  display: flex;
+  justify-content: space-between;
+}
